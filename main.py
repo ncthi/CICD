@@ -4,4 +4,4 @@ app = FastAPI()
 
 @app.get('/')
 def index():
-    return {'key' : '122345'}
+    return {'key' : '1222345'}
